@@ -1,0 +1,12 @@
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\DDDJConsole.exe.config
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\DDDJConsole.exe
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\DDDJConsole.pdb
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\obj\Debug\DDDJConsole.exe
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\obj\Debug\DDDJConsole.pdb
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\SharpDX.dll
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\SharpDX.XInput.dll
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\SharpDX.xml
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\bin\Debug\SharpDX.XInput.xml
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\obj\Debug\DDDJConsole.Properties.Resources.resources
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\obj\Debug\DDDJConsole.csproj.GenerateResource.Cache
+C:\Users\Rudy\SkyDrive\Games\DnD\DJ Boomshakalaka\Code Projects\DDDJConsole\DDDJConsole\obj\Debug\DDDJConsole.csprojResolveAssemblyReference.cache
